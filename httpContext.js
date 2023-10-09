@@ -9,7 +9,7 @@
 /////////////////////////////////////////////////////////////////////
 import queryString from "query-string";
 import Response from "./response.js";
-import * as utilities from "./utilities.js";
+import * as utilities from "./wwwroot/utilities.js";
 
 let httpContext = null;
 
